@@ -1,0 +1,48 @@
+
+html,body{
+	font: light, "Helvetica","Yu Gothic","sans-serif";
+  width: 100%;
+  margin: 0;
+}
+article,footer,header,section{
+  display:block;
+}
+h1{
+  padding:5px;
+}
+article{
+  margin: 0;
+}
+img{
+  width: 90%;
+  height: 90%;
+}
+.info{
+  display: inline-block;
+}
+section{
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+h2{
+  padding:5px;
+}
+.portrait{
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  padding-left: 20px;
+}
+ul{
+  padding-left: 10px;
+	list-style-type: none;
+}
+ol{
+  padding-left: 30px;
+}
+footer{
+	margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
